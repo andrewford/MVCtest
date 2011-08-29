@@ -1,0 +1,7 @@
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\bin\mvcOne.dll
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\bin\mvcOne.pdb
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\bin\EntityFramework.dll
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\bin\EntityFramework.xml
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\ResolveAssemblyReference.cache
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
