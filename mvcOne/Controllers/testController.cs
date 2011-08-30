@@ -11,9 +11,9 @@ namespace mvcOne.Controllers
         //
         // GET: /test/
 
-        public ActionResult Index()
+        public ActionResult Index(string myName = "James")
         {
-            ViewBag.FirstThing = "hi there";
+            ViewBag.FirstThing = "hi there " + myName + " from Andrew";
 
             return View();
         }
