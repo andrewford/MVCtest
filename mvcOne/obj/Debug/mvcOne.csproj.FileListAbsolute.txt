@@ -5,3 +5,8 @@ c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\bin\EntityFr
 c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\ResolveAssemblyReference.cache
 c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.dll
 c:\users\161089\documents\visual studio 2010\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\mvctest\mvcOne\bin\mvcOne.dll
+C:\mvctest\mvcOne\bin\mvcOne.pdb
+C:\mvctest\mvcOne\obj\Debug\ResolveAssemblyReference.cache
+C:\mvctest\mvcOne\obj\Debug\mvcOne.dll
+C:\mvctest\mvcOne\obj\Debug\mvcOne.pdb

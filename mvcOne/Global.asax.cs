@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using System.Data.Entity;
+using mvcOne.Models;
 
 namespace mvcOne
 {
@@ -31,6 +33,8 @@ namespace mvcOne
 
         protected void Application_Start()
         {
+            Database.SetInitializer<dbPeople>(new dbPeopleInitializer());
+            
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);
