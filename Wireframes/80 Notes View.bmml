@@ -12,10 +12,8 @@
         <color>14001853</color>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="39" y="102" w="107" h="29" measuredW="310" measuredH="97" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>../../Pictures/compasslogo.PNG</src>
-      </controlProperties>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="39" y="102" w="107" h="29" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties/>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="423" y="106" w="-1" h="-1" measuredW="418" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>

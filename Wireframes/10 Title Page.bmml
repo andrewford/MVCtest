@@ -20,5 +20,10 @@
         <text>CServe%20Wireframes</text>
       </controlProperties>
     </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="65" y="75" w="-1" h="-1" measuredW="326" measuredH="58" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Version%2C%20Description%2C%20Date%2C%20Author%0A0.1%2C%20Initially%20created%2C%208/30/2011%2C%20AJF</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
