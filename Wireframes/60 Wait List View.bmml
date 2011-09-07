@@ -37,112 +37,122 @@
         <rightArrow>false</rightArrow>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="318" y="452" w="513" h="31" measuredW="425" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>false</bold>
-        <selectedIndex>2</selectedIndex>
-        <text>Chairs%2C%20Current%2C%20Waitlist%2C%20Search%2C%20Notes%2C%20Stats</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="131" w="785" h="322" measuredW="756" measuredH="388" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="131" w="785" h="322" measuredW="756" measuredH="388" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Customer%2C%20Chair%2C%20Service%2C%20Remaining%20Wait%2C%20Waited%20For%20%0AEdward%20Stevens%2C%20Chair%201%2C%20Manicure%20%28Basic%29%2C%2012%20minutes%2C%2027%20minutes%2C%20%20%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%0AJanuary%20Jones%2C%20Emma%27s%20Chair%2C%20Manicure%20+%20Color%2C%207%20minutes%2C%2043%20minutes%0AEdward%20Stevens%2C%20Chair%201%2C%20Manicure%20%28Basic%29%2C%2012%20minutes%2C%2027%20minutes%2C%20%20%20%20%20%20%20%20%20%20%20%0AJanuary%20Jones%2C%20Emma%27s%20Chair%2C%20Manicure%20+%20Color%2C%207%20minutes%2C%2043%20minutes%0AEdward%20Stevens%2C%20Chair%201%2C%20Manicure%20%28Basic%29%2C%2012%20minutes%2C%2027%20minutes%2C%20%20%20%20%20%20%20%20%20%20%20%0AJanuary%20Jones%2C%20Emma%27s%20Chair%2C%20Manicure%20+%20Color%2C%207%20minutes%2C%2043%20minutes%0AEdward%20Stevens%2C%20Chair%201%2C%20Manicure%20%28Basic%29%2C%2012%20minutes%2C%2027%20minutes%2C%20%20%20%20%20%20%20%20%20%20%20%0AJanuary%20Jones%2C%20Emma%27s%20Chair%2C%20Manicure%20+%20Color%2C%207%20minutes%2C%2043%20minutes%0AEdward%20Stevens%2C%20Chair%201%2C%20Manicure%20%28Basic%29%2C%2012%20minutes%2C%2027%20minutes%2C%20%20%20%20%20%20%20%20%20%20%20%0AJanuary%20Jones%2C%20Emma%27s%20Chair%2C%20Manicure%20+%20Color%2C%207%20minutes%2C%2043%20minutes%0AWendy%20Eck%2C%20Recliner%2C%20French%20Nails%2C%201%20hour%202%20minutes%2C%202%20hours%2018%20minutes%0ANigel%20Hooper%2C%20Foot%20Spa%2C%20Foot%20Massage%2C%201%20minute%2C%2044%20minutes</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="39" y="454" w="-1" h="-1" measuredW="91" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="748" y="157" w="68" h="28" measuredW="54" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="748" y="185" w="68" h="28" measuredW="54" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="748" y="213" w="68" h="28" measuredW="54" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="749" y="247" w="68" h="28" measuredW="54" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="824" y="131" w="-1" h="321" measuredW="16" measuredH="100" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="747" y="274" w="68" h="28" measuredW="54" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="748" y="304" w="68" h="28" measuredW="54" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="748" y="334" w="68" h="28" measuredW="54" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="749" y="368" w="68" h="28" measuredW="54" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="750" y="400" w="68" h="28" measuredW="54" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seat</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="669" y="156" w="68" h="28" measuredW="54" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="669" y="184" w="68" h="28" measuredW="54" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="669" y="212" w="68" h="28" measuredW="68" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manual</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="670" y="246" w="68" h="28" measuredW="54" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="668" y="273" w="68" h="28" measuredW="57" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="669" y="303" w="68" h="28" measuredW="68" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manual</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="669" y="333" w="68" h="28" measuredW="68" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manual</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="670" y="367" w="68" h="28" measuredW="54" measuredH="28" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="671" y="399" w="68" h="28" measuredW="57" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ButtonBar" x="39" y="454" w="256" h="31" measuredW="155" measuredH="31" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <selectedIndex>0</selectedIndex>
+        <text>Current%2C%20Waitlist</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="611" y="453" w="-1" h="-1" measuredW="91" measuredH="28" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>New%20Party</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="748" y="157" w="68" h="28" measuredW="54" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="708" y="454" w="129" h="-1" measuredW="73" measuredH="29" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Seat</text>
+        <text>%20%20%20Search</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="748" y="185" w="68" h="28" measuredW="54" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="712" y="461" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="748" y="213" w="68" h="28" measuredW="54" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="749" y="247" w="68" h="28" measuredW="54" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="824" y="131" w="-1" h="321" measuredW="16" measuredH="100" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="747" y="274" w="68" h="28" measuredW="54" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="748" y="304" w="68" h="28" measuredW="54" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="748" y="334" w="68" h="28" measuredW="54" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="749" y="368" w="68" h="28" measuredW="54" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="750" y="400" w="68" h="28" measuredW="54" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Seat</text>
-      </controlProperties>
-    </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="669" y="156" w="68" h="28" measuredW="54" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>SMS</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="669" y="184" w="68" h="28" measuredW="54" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>SMS</text>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="669" y="212" w="68" h="28" measuredW="68" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Manual</text>
-      </controlProperties>
-    </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="670" y="246" w="68" h="28" measuredW="54" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>SMS</text>
-      </controlProperties>
-    </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="668" y="273" w="68" h="28" measuredW="57" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Voice</text>
-      </controlProperties>
-    </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="669" y="303" w="68" h="28" measuredW="68" measuredH="28" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Manual</text>
-      </controlProperties>
-    </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="669" y="333" w="68" h="28" measuredW="68" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Manual</text>
-      </controlProperties>
-    </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="670" y="367" w="68" h="28" measuredW="54" measuredH="28" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>SMS</text>
-      </controlProperties>
-    </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="671" y="399" w="68" h="28" measuredW="57" measuredH="28" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Voice</text>
+        <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>

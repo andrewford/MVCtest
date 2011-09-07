@@ -37,53 +37,62 @@
         <rightArrow>false</rightArrow>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="318" y="452" w="513" h="31" measuredW="425" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>false</bold>
-        <selectedIndex>3</selectedIndex>
-        <text>Chairs%2C%20Current%2C%20Waitlist%2C%20Search%2C%20Notes%2C%20Stats</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="39" y="454" w="-1" h="-1" measuredW="91" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>up</state>
-        <text>New%20Party</text>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="140" w="168" h="-1" measuredW="57" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="140" w="168" h="-1" measuredW="57" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>smith</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::DateChooser" x="289" y="137" w="-1" h="-1" measuredW="106" measuredH="29" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="222" y="139" w="-1" h="-1" measuredW="58" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::DateChooser" x="289" y="137" w="-1" h="-1" measuredW="106" measuredH="29" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="222" y="139" w="-1" h="-1" measuredW="58" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>and%20/%20or</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="172" w="785" h="75" measuredW="573" measuredH="72" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="172" w="785" h="75" measuredW="573" measuredH="72" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>16</rowHeight>
         <text>Currently%20Seated%20%282%29%0AJohn%20Smith%2C%20Manicure%2C%20Seat%20%23%201%2C%2018%20minutes%20left%20%28seated%2012%20minutes%20ago%29%0AKelly%20Stevens%2C%20Pedicure%2C%20Foot%20Chair%2C%200%20minutes%20left%20%28seated%2054%20minutes%20ago%29</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="249" w="785" h="75" measuredW="498" measuredH="72" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="249" w="785" h="75" measuredW="498" measuredH="72" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>16</rowHeight>
         <text>Waiting%20%282%29%0AJohn%20Smith%2C%20Manicure%2C%20Seat%20%23%201%2C%2018%20minutes%20left%20%28waited%2012%20minutes%29%0AKelly%20Stevens%2C%20Pedicure%2C%20Foot%20Chair%2C%200%20minutes%20left%20%28waited%2054%20minutes%29</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="824" y="172" w="-1" h="280" measuredW="16" measuredH="100" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="400" w="785" h="52" measuredW="541" measuredH="50" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="824" y="172" w="-1" h="280" measuredW="16" measuredH="100" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="400" w="785" h="52" measuredW="541" measuredH="50" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>16</rowHeight>
         <text>Previously%20Visited%20%281%29%0AJohn%20Smith%2C%20Manicure%2C%20Seat%20%23%201%2C%2018%20minutes%20left%20%28waited%2012%20minutes%29</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="324" w="785" h="75" measuredW="511" measuredH="72" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::DataGrid" x="39" y="324" w="785" h="75" measuredW="509" measuredH="72" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>16</rowHeight>
         <text>Future%20Reservations%20%282%29%0AJohn%20Smith%2C%20Manicure%2C%20Seat%20%23%201%2C%202011/04/23%2C%2034%20minutes%0AKelly%20Stevens%2C%20Pedicure%2C%20Foot%20Chair%2C%202011/03/30%2C%201%20hr%2027%20mins</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ButtonBar" x="39" y="453" w="256" h="31" measuredW="155" measuredH="31" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <selectedIndex>0</selectedIndex>
+        <text>Current%2C%20Waitlist</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="611" y="452" w="-1" h="-1" measuredW="91" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New%20Party</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="708" y="453" w="129" h="-1" measuredW="73" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="712" y="460" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>
